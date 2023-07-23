@@ -1,0 +1,948 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# abdl erkin <84247764@qq.com>, 2018
+# ABDULLA <ijtihat@gmail.com>, 2014
+# Abduqadir Abliz <sahranbay@gmail.com>, 2023
+# Azat, 2023
+# Murat Orhun <oku.orhun@gmail.com>, 2023
+# Serpidin Uyghur, 2023
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-17 02:13-0600\n"
+"PO-Revision-Date: 2013-04-25 07:05+0000\n"
+"Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>, 2023\n"
+"Language-Team: Uyghur (http://app.transifex.com/django/django/language/ug/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ug\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: contrib/admin/actions.py:17
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "تاللانغان%(verbose_name_plural)sنى ئۆچۈر"
+
+#: contrib/admin/actions.py:54
+#, python-format
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d%(items)sمۇۋەپپەقىيەتلىك ئۆچۈرۈلدى"
+
+#: contrib/admin/actions.py:64 contrib/admin/options.py:2148
+#, python-format
+msgid "Cannot delete %(name)s"
+msgstr "%(name)sنى ئۆچۈرەلمەيدۇ"
+
+#: contrib/admin/actions.py:66 contrib/admin/options.py:2150
+msgid "Are you sure?"
+msgstr "جەزىملەشتۈرەمسىز؟"
+
+#: contrib/admin/apps.py:13
+msgid "Administration"
+msgstr "باشقۇرۇش"
+
+#: contrib/admin/filters.py:118 contrib/admin/filters.py:233
+#: contrib/admin/filters.py:278 contrib/admin/filters.py:321
+#: contrib/admin/filters.py:463 contrib/admin/filters.py:540
+msgid "All"
+msgstr "ھەممىسى"
+
+#: contrib/admin/filters.py:279
+msgid "Yes"
+msgstr "ھەئە"
+
+#: contrib/admin/filters.py:280
+msgid "No"
+msgstr "ياق"
+
+#: contrib/admin/filters.py:295
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+#: contrib/admin/filters.py:375
+msgid "Any date"
+msgstr "خالىغان چېسلا"
+
+#: contrib/admin/filters.py:377
+msgid "Today"
+msgstr "بۈگۈن"
+
+#: contrib/admin/filters.py:384
+msgid "Past 7 days"
+msgstr "ئۆتكەن 7 كۈن"
+
+#: contrib/admin/filters.py:391
+msgid "This month"
+msgstr "بۇ ئاي"
+
+#: contrib/admin/filters.py:398
+msgid "This year"
+msgstr "بۇ يىل"
+
+#: contrib/admin/filters.py:408
+msgid "No date"
+msgstr "چېسلا يوق"
+
+#: contrib/admin/filters.py:409
+msgid "Has date"
+msgstr "ۋاقتى بار "
+
+#: contrib/admin/filters.py:541
+msgid "Empty"
+msgstr "بوش"
+
+#: contrib/admin/filters.py:542
+msgid "Not empty"
+msgstr "بوش ئەمەس"
+
+#: contrib/admin/forms.py:14
+#, python-format
+msgid ""
+"Please enter the correct %(username)s and password for a staff account. Note"
+" that both fields may be case-sensitive."
+msgstr "Please enter the correct %(username)s and password for a staff account. دىققەت ھەر ئىككى بۆلەك چوڭ كىچىك يېزىلىشنى پەرقلەندۈرۈشى مۇمكىن."
+
+#: contrib/admin/helpers.py:30
+msgid "Action:"
+msgstr "ھەرىكەت:"
+
+#: contrib/admin/helpers.py:431
+#, python-format
+msgid "Add another %(verbose_name)s"
+msgstr "باشقا %(verbose_name)sنى قوشۇش"
+
+#: contrib/admin/helpers.py:435
+msgid "Remove"
+msgstr "چىقىرىۋەت"
+
+#: contrib/admin/models.py:18
+msgid "Addition"
+msgstr "قوشۇش"
+
+#: contrib/admin/models.py:19 contrib/admin/templates/admin/app_list.html:28
+#: contrib/admin/templates/admin/edit_inline/stacked.html:16
+#: contrib/admin/templates/admin/edit_inline/tabular.html:36
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:12
+msgid "Change"
+msgstr "ئۆزگەرتىش"
+
+#: contrib/admin/models.py:20
+msgid "Deletion"
+msgstr "ئۆچۈر"
+
+#: contrib/admin/models.py:50
+msgid "action time"
+msgstr "مەشغۇلات ۋاقتى"
+
+#: contrib/admin/models.py:57
+msgid "user"
+msgstr "ئىشلەتكۈچى"
+
+#: contrib/admin/models.py:62
+msgid "content type"
+msgstr "مەزمۇن تىپى"
+
+#: contrib/admin/models.py:66
+msgid "object id"
+msgstr "ئوبىيكىت كىملىكى"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+#: contrib/admin/models.py:69
+msgid "object repr"
+msgstr "ئوبيېكت ۋەكىلى"
+
+#: contrib/admin/models.py:71
+msgid "action flag"
+msgstr "ھەرىكەت بايرىقى"
+
+#: contrib/admin/models.py:74
+msgid "change message"
+msgstr "ئۇچۇرنى ئۆزگەرتىش"
+
+#: contrib/admin/models.py:79
+msgid "log entry"
+msgstr "خاتىرە تۈرى"
+
+#: contrib/admin/models.py:80
+msgid "log entries"
+msgstr "خاتىرە تۈرلىرى"
+
+#: contrib/admin/models.py:89
+#, python-format
+msgid "Added “%(object)s”."
+msgstr "%(object)sقوشۇلدى"
+
+#: contrib/admin/models.py:91
+#, python-format
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "%(object)s%(changes)s گە ئۆزگەرتىلدى"
+
+#: contrib/admin/models.py:96
+#, python-format
+msgid "Deleted “%(object)s.”"
+msgstr "%(object)sئۆچۈرۈلدى"
+
+#: contrib/admin/models.py:98
+msgid "LogEntry Object"
+msgstr "خاتىرە تۈرى ئوبيېكتى"
+
+#: contrib/admin/models.py:127
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "{ئىسىم} ''{ئوبىيكىت}'' قا قوشۇلدى"
+
+#: contrib/admin/models.py:132
+msgid "Added."
+msgstr "قوشۇلدى."
+
+#: contrib/admin/models.py:140 contrib/admin/options.py:2404
+msgid "and"
+msgstr "ۋە"
+
+#: contrib/admin/models.py:147
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "{name} “{object}” نىڭ {fields} ئۆزگەرتىلدى"
+
+#: contrib/admin/models.py:153
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "ئۆزگەرگەن {مەيدانلار}."
+
+#: contrib/admin/models.py:163
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "ئۆچۈرۈلگەن[ئىسىم]\"{ئوبىيكىت}''"
+
+#: contrib/admin/models.py:169
+msgid "No fields changed."
+msgstr "ھېچقانداق مەيدان ئۆزگەرمىدى"
+
+#: contrib/admin/options.py:232 contrib/admin/options.py:273
+msgid "None"
+msgstr "يوق"
+
+#: contrib/admin/options.py:325
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr "Mac دىكى «كونترول» ياكى «Ctrl» نى بېسىپ ، بىردىن كۆپنى تاللاڭ."
+
+#: contrib/admin/options.py:1376 contrib/admin/options.py:1405
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك قوشۇلدى."
+
+#: contrib/admin/options.py:1378
+msgid "You may edit it again below."
+msgstr "تۆۋەندە قايتا تەھرىرلىسىڭىز بولىدۇ."
+
+#: contrib/admin/options.py:1391
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك قوشۇلدى. تۆۋەندە باشقا {name} قوشسىڭىز بولىدۇ."
+
+#: contrib/admin/options.py:1453
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك ئۆزگەرتىلدى. تۆۋەندە ئۇنى قايتا تەھرىرلىسىڭىز بولىدۇ."
+
+#: contrib/admin/options.py:1468
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك قوشۇلدى. تۆۋەندە ئۇنى قايتا تەھرىرلىسىڭىز بولىدۇ."
+
+#: contrib/admin/options.py:1487
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك ئۆزگەرتىلدى. تۆۋەندە باشقا {name} قوشسىڭىز بولىدۇ."
+
+#: contrib/admin/options.py:1504
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "{Name} “{obj}” مۇۋەپپەقىيەتلىك ئۆزگەرتىلدى."
+
+#: contrib/admin/options.py:1582 contrib/admin/options.py:1967
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr "ھەرىكەت ئىجرا قىلىش ئۈچۈن تۈرلەر تاللىنىشى كېرەك. ھېچقانداق تۈر ئۆزگەرتىلمىدى."
+
+#: contrib/admin/options.py:1602
+msgid "No action selected."
+msgstr "ھېچقانداق ھەرىكەت تاللىنمىدى."
+
+#: contrib/admin/options.py:1633
+#, python-format
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s\"%(obj)s\" مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى."
+
+#: contrib/admin/options.py:1735
+#, python-format
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "ID سى \"%(key)s\" بولغان %(name)s مەۋجۇت ئەمەس. بەلكىم ئۇ ئۆچۈرۈلگەن؟"
+
+#: contrib/admin/options.py:1846
+#, python-format
+msgid "Add %s"
+msgstr "%s نى قوش"
+
+#: contrib/admin/options.py:1848
+#, python-format
+msgid "Change %s"
+msgstr "%sنى ئۆزگەرت"
+
+#: contrib/admin/options.py:1850
+#, python-format
+msgid "View %s"
+msgstr "%sكۆرۈش"
+
+#: contrib/admin/options.py:1937
+msgid "Database error"
+msgstr "ساندان خاتالىقى"
+
+#: contrib/admin/options.py:2027
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)sنى %(name)sگە ئۆزگەرتىش مۇۋەپپىقىيەتلىك بولدى."
+msgstr[1] "%(count)sنى%(name)sگە ئۆزگەرتىش مۇۋەپپىقىيەتلىك بولدى"
+
+#: contrib/admin/options.py:2058
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "ھەممە%(total_count)sتاللاندى "
+msgstr[1] "ھەممە%(total_count)sتاللاندى"
+
+#: contrib/admin/options.py:2064
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "%(cnt)s تۈردىن 0 نى تاللىدىڭىز."
+
+#: contrib/admin/options.py:2206
+#, python-format
+msgid "Change history: %s"
+msgstr "تارىخنى ئۆزگەرتىش: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#: contrib/admin/options.py:2398
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s%(instance)s"
+
+#: contrib/admin/options.py:2407
+#, python-format
+msgid ""
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
+msgstr "%(class_name)s%(instance)s نى ئۆچۈرۈش قوغدالغان تۆۋەندىكى ئۇچۇرلارنى ئۆچۈرۈشنى تەلەپ قىلىدۇ: %(related_objects)s"
+
+#: contrib/admin/sites.py:47 contrib/admin/templates/admin/base_site.html:3
+msgid "Django site admin"
+msgstr "جانگو تور بېكەت باشقۇرغۇچى"
+
+#: contrib/admin/sites.py:50 contrib/admin/templates/admin/base_site.html:6
+msgid "Django administration"
+msgstr "جانگو باشقۇرۇش"
+
+#: contrib/admin/sites.py:53
+msgid "Site administration"
+msgstr "تور بېكەت باشقۇرۇش"
+
+#: contrib/admin/sites.py:423 contrib/admin/templates/admin/login.html:63
+#: contrib/admin/templates/registration/password_reset_complete.html:15
+#: contrib/admin/tests.py:144
+msgid "Log in"
+msgstr "كىرىش"
+
+#: contrib/admin/sites.py:576
+#, python-format
+msgid "%(app)s administration"
+msgstr "%(app)s باشقۇرۇش"
+
+#: contrib/admin/templates/admin/404.html:4
+#: contrib/admin/templates/admin/404.html:8
+msgid "Page not found"
+msgstr "بەت تېپىلمىدى"
+
+#: contrib/admin/templates/admin/404.html:10
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "كەچۈرۈڭ، لېكىن تەلەب قىلىنغان بەت تېپىلمىدى."
+
+#: contrib/admin/templates/admin/500.html:6
+#: contrib/admin/templates/admin/app_index.html:9
+#: contrib/admin/templates/admin/auth/user/change_password.html:10
+#: contrib/admin/templates/admin/base.html:76
+#: contrib/admin/templates/admin/change_form.html:18
+#: contrib/admin/templates/admin/change_list.html:32
+#: contrib/admin/templates/admin/delete_confirmation.html:14
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:14
+#: contrib/admin/templates/admin/invalid_setup.html:6
+#: contrib/admin/templates/admin/object_history.html:6
+#: contrib/admin/templates/registration/logged_out.html:4
+#: contrib/admin/templates/registration/password_change_done.html:13
+#: contrib/admin/templates/registration/password_change_form.html:14
+#: contrib/admin/templates/registration/password_reset_complete.html:6
+#: contrib/admin/templates/registration/password_reset_confirm.html:7
+#: contrib/admin/templates/registration/password_reset_done.html:6
+#: contrib/admin/templates/registration/password_reset_form.html:7
+msgid "Home"
+msgstr "باش بەت"
+
+#: contrib/admin/templates/admin/500.html:7
+msgid "Server error"
+msgstr "مۇلازىمېتىر خاتالىقى"
+
+#: contrib/admin/templates/admin/500.html:11
+msgid "Server error (500)"
+msgstr "مۇلازىمېتىر خاتالىقى (500)"
+
+#: contrib/admin/templates/admin/500.html:14
+msgid "Server Error <em>(500)</em>"
+msgstr "مۇلازىمېتىر خاتالىقى <em>(500)</em>"
+
+#: contrib/admin/templates/admin/500.html:15
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr "خاتالىق كۆرۈلدى. بۇ ئۇچۇر تور بېكەت باشقۇرغۇچىلارغا ئېلخەت ئارقىلىق ئۇقتۇرۇلدى ۋە تېزدىن تۈزۈتۈلىدۇ. سەبرىڭىزگە رەھمەت."
+
+#: contrib/admin/templates/admin/actions.html:8
+msgid "Run the selected action"
+msgstr "تاللانغان مەشغۇلاتنى ئىجرا قىل"
+
+#: contrib/admin/templates/admin/actions.html:8
+msgid "Go"
+msgstr "يۆتكەل"
+
+#: contrib/admin/templates/admin/actions.html:16
+msgid "Click here to select the objects across all pages"
+msgstr "بارلىق بەتلەردىكى ئوبىيكتلەرنى تاللاش ئۈچۈن بۇ يەرنى چېكىڭ."
+
+#: contrib/admin/templates/admin/actions.html:16
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "بارىلىق %(total_count)s%(module_name)s نى تاللا"
+
+#: contrib/admin/templates/admin/actions.html:18
+msgid "Clear selection"
+msgstr "تاللىغاننى تازىلا"
+
+#: contrib/admin/templates/admin/app_list.html:8
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "%(name)s پروگراممىسىدىكى مودېللار"
+
+#: contrib/admin/templates/admin/app_list.html:19
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:20
+msgid "Add"
+msgstr "قوش"
+
+#: contrib/admin/templates/admin/app_list.html:26
+#: contrib/admin/templates/admin/edit_inline/stacked.html:16
+#: contrib/admin/templates/admin/edit_inline/tabular.html:36
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:35
+msgid "View"
+msgstr "كۆرۈنۈش"
+
+#: contrib/admin/templates/admin/app_list.html:39
+msgid "You don’t have permission to view or edit anything."
+msgstr "سىزنىڭ كۆرۈش ياكى تەھرىرلەش ھوقۇقىڭىز يوق."
+
+#: contrib/admin/templates/admin/auth/user/add_form.html:6
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user"
+" options."
+msgstr "ئالدى بىلەن، ئىشلەتكۈچى ئاتى ۋە ئىم كىرگۈزۈلىدۇ. ئاندىن، تېخىمۇ كۆپ ئىشلەتكۈچى تاللانمىلىرىنى تەھرىرلىيەلەيسىز."
+
+#: contrib/admin/templates/admin/auth/user/add_form.html:8
+msgid "Enter a username and password."
+msgstr "ئىشلەتكۈچى ئاتى ۋە پارول كىرگۈزۈڭ."
+
+#: contrib/admin/templates/admin/auth/user/change_password.html:14
+#: contrib/admin/templates/admin/auth/user/change_password.html:52
+#: contrib/admin/templates/admin/base.html:57
+#: contrib/admin/templates/registration/password_change_done.html:4
+#: contrib/admin/templates/registration/password_change_form.html:5
+msgid "Change password"
+msgstr "پارولنى ئۆزگەرتىش"
+
+#: contrib/admin/templates/admin/auth/user/change_password.html:25
+#: contrib/admin/templates/admin/change_form.html:43
+#: contrib/admin/templates/admin/change_list.html:52
+#: contrib/admin/templates/admin/login.html:23
+#: contrib/admin/templates/registration/password_change_form.html:25
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "تۆۋەندىكى خاتالىقلارنى توغرىلاڭ."
+msgstr[1] "تۆۋەندىكى خاتالىقلارنى توغرىلاڭ."
+
+#: contrib/admin/templates/admin/auth/user/change_password.html:29
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "ئىشلەتكۈچى <strong>%(username)s</strong> ئۈچۈن يېڭى پارول كىرگۈزۈڭ."
+
+#: contrib/admin/templates/admin/base.html:28
+msgid "Skip to main content"
+msgstr "ئاساسلىق مەزمۇنغا ئاتلا"
+
+#: contrib/admin/templates/admin/base.html:43
+msgid "Welcome,"
+msgstr "مەرھابا،"
+
+#: contrib/admin/templates/admin/base.html:48
+msgid "View site"
+msgstr "بېكەتنى كۆرۈش "
+
+#: contrib/admin/templates/admin/base.html:53
+#: contrib/admin/templates/registration/password_change_done.html:4
+#: contrib/admin/templates/registration/password_change_form.html:5
+msgid "Documentation"
+msgstr "قوللانمىلار"
+
+#: contrib/admin/templates/admin/base.html:61
+#: contrib/admin/templates/registration/password_change_done.html:7
+#: contrib/admin/templates/registration/password_change_form.html:8
+msgid "Log out"
+msgstr "چىكىنىش"
+
+#: contrib/admin/templates/admin/base.html:73
+msgid "Breadcrumbs"
+msgstr "يول كۆرسەتكۈچى"
+
+#: contrib/admin/templates/admin/change_form.html:21
+#: contrib/admin/templates/admin/change_list_object_tools.html:8
+#, python-format
+msgid "Add %(name)s"
+msgstr "%(name)sنى قوشۇش"
+
+#: contrib/admin/templates/admin/change_form_object_tools.html:5
+#: contrib/admin/templates/admin/object_history.html:10
+msgid "History"
+msgstr "تارىخ"
+
+#: contrib/admin/templates/admin/change_form_object_tools.html:7
+#: contrib/admin/templates/admin/edit_inline/stacked.html:18
+#: contrib/admin/templates/admin/edit_inline/tabular.html:38
+msgid "View on site"
+msgstr "بېكەتتە كۆرۈش "
+
+#: contrib/admin/templates/admin/change_list.html:77
+msgid "Filter"
+msgstr "سۈزگۈچ"
+
+#: contrib/admin/templates/admin/change_list.html:79
+msgid "Clear all filters"
+msgstr "ھەممە سۈزگۈچلەرنى تازىلا"
+
+#: contrib/admin/templates/admin/change_list_results.html:16
+msgid "Remove from sorting"
+msgstr "تەرتىپلەشتىن چىقىرىۋەت"
+
+#: contrib/admin/templates/admin/change_list_results.html:17
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "تەرتىپلەش دەرىجىسى: %(priority_number)s"
+
+#: contrib/admin/templates/admin/change_list_results.html:18
+msgid "Toggle sorting"
+msgstr "تەرتىپلەشنى ئالماشتۇرۇش"
+
+#: contrib/admin/templates/admin/color_theme_toggle.html:3
+msgid "Toggle theme (current theme: auto)"
+msgstr "تېمىنى ئالماشتۇرۇش (ھازىرقى تېما: ئاپتوماتىك)"
+
+#: contrib/admin/templates/admin/color_theme_toggle.html:4
+msgid "Toggle theme (current theme: light)"
+msgstr "تېمىنى ئالماشتۇرۇش (ھازىرقى تېما: يورۇق)"
+
+#: contrib/admin/templates/admin/color_theme_toggle.html:5
+msgid "Toggle theme (current theme: dark)"
+msgstr "تېمىنى ئالماشتۇرۇش (ھازىرقى تېما: قارا)"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:18
+#: contrib/admin/templates/admin/submit_line.html:11
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:28
+msgid "Delete"
+msgstr "ئۆچۈر"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:25
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr "%(object_name)s%(escaped_object)s نى ئۆچۈرۈش، ئۇنىڭغا باغلىق نەرسىلەرنى ئۆچۈرۈشكە زۆرۈرلىنىدۇ ، لېكىن سىزنىڭ ھېساباتىڭىزدا تۆۋەندىكى تۈرلەرنى ئۆچۈرۈش ھوقۇقى يوق:"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:30
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the"
+" following protected related objects:"
+msgstr "%(object_name)s 's '%(escaped_object)s' نى ئۆچۈرۈش، تۆۋەندىكى قوغداق قوغدالغان ئۇچۇرلارنى ئۆچۈرۈشنى تەلەپ قىلىدۇ:"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:35
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr "%(object_name)s %(escaped_object)s نى راستلا ئۆچۈرۈشنى خالامسىز؟ تۆۋەندىكى بارلىق باغلىق تۈرلەر ئۆچۈرۈلىدۇ:"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:37
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:31
+msgid "Objects"
+msgstr "ئوبىيكتلار"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:44
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:42
+msgid "Yes, I’m sure"
+msgstr "ھەئە، شۇنداق"
+
+#: contrib/admin/templates/admin/delete_confirmation.html:45
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:43
+msgid "No, take me back"
+msgstr "ياق، كەينىگە ياندۇر"
+
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:17
+msgid "Delete multiple objects"
+msgstr "كۆپ ئوبىيكتنى ئ‍ۆچۈرۈش"
+
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:23
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr "تاللانغان %(objects_name)s نى ئۆچۈرۈش، ئۇنىڭغا باغلىق نەرسىلەرنى ئۆچۈرۈشكە ئۆتۈرۈلۈدۇ، لېكىن سىزنىڭ ھېساباتىڭىزدا تۆۋەندىكى تۈرلەرنى ئۆچۈرۈش ھوقۇقى يوق:"
+
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:26
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr "تاللانغان %(objects_name)s نى ئۆچۈرۈش، تۆۋەندىكى قوغداق قوغدالغان ئۇچۇرلارنى ئۆچۈرۈشنى تەلەپ قىلىدۇ:"
+
+#: contrib/admin/templates/admin/delete_selected_confirmation.html:29
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr "تاللانغان %(objects_name)s نى راستلا ئۆچۈرۈشنى خالامسىز؟ تۆۋەندىكى بارلىق نەرسىلەر ۋە ئۇلارغا باغلىق تۈرلەر ئۆچۈرۈلىدۇ:"
+
+#: contrib/admin/templates/admin/edit_inline/tabular.html:22
+msgid "Delete?"
+msgstr "ئۆچۈرۈۋېتەمسىز؟"
+
+#: contrib/admin/templates/admin/filter.html:4
+#, python-format
+msgid " By %(filter_title)s "
+msgstr "%(filter_title)s بويىچە"
+
+#: contrib/admin/templates/admin/includes/object_delete_summary.html:2
+msgid "Summary"
+msgstr "ئۈزۈندە"
+
+#: contrib/admin/templates/admin/index.html:23
+msgid "Recent actions"
+msgstr "يېقىنقى مەشغۇلاتلار"
+
+#: contrib/admin/templates/admin/index.html:24
+msgid "My actions"
+msgstr "مەشغۇلاتلىرىم"
+
+#: contrib/admin/templates/admin/index.html:28
+msgid "None available"
+msgstr "ھېچنېمە يوق"
+
+#: contrib/admin/templates/admin/index.html:42
+msgid "Unknown content"
+msgstr "بەلگىلەنمىگەن مەزمۇن"
+
+#: contrib/admin/templates/admin/invalid_setup.html:12
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate"
+" database tables have been created, and make sure the database is readable "
+"by the appropriate user."
+msgstr "سىزنىڭ مەلۇمات سانداننىڭ ئورنىتىشىدا بىرنەمە مەسىلە بار. توغرا ساندان جەدۋىلى قۇرۇلغانلىقىنى جەزملەڭ، ۋە سانداننىڭ توغرا ئىشلەتكۈچى تەرىپىدىن ئوقۇلىدىغانلىقىنى جەزملەڭ."
+
+#: contrib/admin/templates/admin/login.html:39
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this"
+" page. Would you like to login to a different account?"
+msgstr "سىز %(username)s دېگەن ئىشلەتكۈچى ھېساباتى بىلەن كىرگەنسىز، لېكىن بۇ بەتكە كىرىش ھوقۇقىڭىز يوق. باشقا ھېساباتقا كىرىشنى خالامسىز؟"
+
+#: contrib/admin/templates/admin/login.html:59
+msgid "Forgotten your password or username?"
+msgstr "پارول ياكى ئىشلەتكۈچى ئاتىڭىزنى ئۇنتۇپ قالدىڭىزمۇ؟"
+
+#: contrib/admin/templates/admin/nav_sidebar.html:2
+msgid "Toggle navigation"
+msgstr "يۆل باشلىغۇچنى ئالماشتۇرۇش"
+
+#: contrib/admin/templates/admin/nav_sidebar.html:3
+msgid "Sidebar"
+msgstr "يان بالداق"
+
+#: contrib/admin/templates/admin/nav_sidebar.html:5
+msgid "Start typing to filter…"
+msgstr " فىلتىرلاش ئۈچۈن يېزىشنى باشلاڭ…"
+
+#: contrib/admin/templates/admin/nav_sidebar.html:6
+msgid "Filter navigation items"
+msgstr "يۆل باشقۇرۇش تۈرلەرىنى سۈزگۈچلەش"
+
+#: contrib/admin/templates/admin/object_history.html:22
+msgid "Date/time"
+msgstr "چېسلا/ۋاقىت"
+
+#: contrib/admin/templates/admin/object_history.html:23
+msgid "User"
+msgstr "ئىشلەتكۈچى"
+
+#: contrib/admin/templates/admin/object_history.html:24
+msgid "Action"
+msgstr "مەشغۇلات"
+
+#: contrib/admin/templates/admin/object_history.html:49
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "تۈرى"
+msgstr[1] "تۈرى"
+
+#: contrib/admin/templates/admin/object_history.html:52
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this"
+" admin site."
+msgstr "بۇ ئوبىيكتنىڭ ئۆزگەرتىش تارىخى يوق. بۇنى مۇمكىن بۇ باشقۇرۇش بېتى ئارقىلىق قوشمىغان بولۇشى مۇمكىن."
+
+#: contrib/admin/templates/admin/pagination.html:10
+#: contrib/admin/templates/admin/search_form.html:9
+msgid "Show all"
+msgstr "ھەممىنى كۆرسەت"
+
+#: contrib/admin/templates/admin/pagination.html:11
+#: contrib/admin/templates/admin/submit_line.html:4
+msgid "Save"
+msgstr "ساقلا"
+
+#: contrib/admin/templates/admin/popup_response.html:3
+msgid "Popup closing…"
+msgstr "قاڭقىشنى تاقاۋاتىدۇ…"
+
+#: contrib/admin/templates/admin/search_form.html:7
+msgid "Search"
+msgstr "ئىزدە"
+
+#: contrib/admin/templates/admin/search_form.html:9
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s نەتىجە"
+msgstr[1] "%(counter)s نەتىجەسى"
+
+#: contrib/admin/templates/admin/search_form.html:9
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s جەمى"
+
+#: contrib/admin/templates/admin/submit_line.html:5
+msgid "Save as new"
+msgstr "يېڭىدىن ساقلاش"
+
+#: contrib/admin/templates/admin/submit_line.html:6
+msgid "Save and add another"
+msgstr "ساقلاپ يېڭىسىنى قوشۇش"
+
+#: contrib/admin/templates/admin/submit_line.html:7
+msgid "Save and continue editing"
+msgstr "تەھرىرلەشنى داۋاملاشتۇرۇپ ساقلاش"
+
+#: contrib/admin/templates/admin/submit_line.html:7
+msgid "Save and view"
+msgstr "ساقلاش ۋە كۆرۈش"
+
+#: contrib/admin/templates/admin/submit_line.html:8
+msgid "Close"
+msgstr "ياپ"
+
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:11
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "تاللانغان%(model)sنى ئۆزگەرت"
+
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:19
+#, python-format
+msgid "Add another %(model)s"
+msgstr "باشقا %(model)s قوش"
+
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:27
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "تاللىغان %(model)s نى ئۆچۈر"
+
+#: contrib/admin/templates/admin/widgets/related_widget_wrapper.html:34
+#, python-format
+msgid "View selected %(model)s"
+msgstr "تاللىغان %(model)s نى كۆرسەت"
+
+#: contrib/admin/templates/registration/logged_out.html:10
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "بۈگۈن تور بېكەتتە ساپالىق ۋاقىت سەرىب قىلغىنىڭىزغا رەھمەت."
+
+#: contrib/admin/templates/registration/logged_out.html:12
+msgid "Log in again"
+msgstr "قايتا كىرىڭ"
+
+#: contrib/admin/templates/registration/password_change_done.html:14
+#: contrib/admin/templates/registration/password_change_form.html:15
+msgid "Password change"
+msgstr "ئىم ئۆزگەرتىش"
+
+#: contrib/admin/templates/registration/password_change_done.html:19
+msgid "Your password was changed."
+msgstr "ئىم ئۆزگەرتىلگەن."
+
+#: contrib/admin/templates/registration/password_change_form.html:30
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new"
+" password twice so we can verify you typed it in correctly."
+msgstr "بىخەتەرلىك ئۈچۈن ئەسلى پارولىڭىزنى كىرگۈزۈڭ، ئاندىن يېڭى پارولىڭىزنى ئىككى قېتىم كىرگۈزۈڭ، بۇنىڭ ئارقىلىق سىز توغرا يېزىب بولغىنىڭىزنى دەلىللەيمىز."
+
+#: contrib/admin/templates/registration/password_change_form.html:58
+#: contrib/admin/templates/registration/password_reset_confirm.html:31
+msgid "Change my password"
+msgstr "پارولىمنى ئۆزگەرتىىمەن"
+
+#: contrib/admin/templates/registration/password_reset_complete.html:7
+#: contrib/admin/templates/registration/password_reset_done.html:7
+#: contrib/admin/templates/registration/password_reset_form.html:8
+msgid "Password reset"
+msgstr "ئىمنى ئەسلىگە قايتۇرۇش"
+
+#: contrib/admin/templates/registration/password_reset_complete.html:13
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "ئىم تەڭشەلگەن.  داۋاملاشتۇرۇپ تىزىمغا كىرسىڭىز بولىدۇ."
+
+#: contrib/admin/templates/registration/password_reset_confirm.html:8
+msgid "Password reset confirmation"
+msgstr "ئىم ئەسلىگە قايتۇرۇشنى جەزملەش"
+
+#: contrib/admin/templates/registration/password_reset_confirm.html:16
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "يېڭى پارولىڭىزنى ئىككى قېتىم كىرگۈزۈڭ، بۇنىڭ ئارقىلىق سىز توغرا كىرگۈزۈب بولغىنىڭىزنى دەلىللەيمىز."
+
+#: contrib/admin/templates/registration/password_reset_confirm.html:23
+msgid "New password:"
+msgstr "يېڭى ئىم:"
+
+#: contrib/admin/templates/registration/password_reset_confirm.html:28
+msgid "Confirm password:"
+msgstr "ئىم جەزملە:"
+
+#: contrib/admin/templates/registration/password_reset_confirm.html:37
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr "پارولنى قايتا بەلگىلەش ئۈچۈن بېرىلگەن ئۇلانما ئىناۋەتسىز بولدى، بۇ ئۇلانما ئاللىبۇرۇن ئىشلىتىلگەن بولۇشى مۇمكىن. يېڭى پارولنى قايتا بەلگىلەش ئۈچۈن ئىلتىماس قىلىڭ."
+
+#: contrib/admin/templates/registration/password_reset_done.html:13
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr "سىز كىرگۈزگەن ئېلخەت ئادرېسىغا ھېسابات بولسا، پارول قويۇش ئۈچۈن سىزگە ئېلخەت ئارقىلىق چۈشەندۈرۈش يوللىدۇق. سىز قىسقا ۋاقىت ئىچىدە ئۇخەتنى تاپشۇرۇب ئېلىشىڭىز كېرەك."
+
+#: contrib/admin/templates/registration/password_reset_done.html:15
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr "ئېلخەت تاپشۇرۇپ ئالمىغان بولسىڭىز، تىزىملىتىپ بولغان ئېلخەت ئادرېسىڭىزنى توغرا كىرگۈزگەنلىكىڭىزنى جەزملەڭ ۋە ئېلخەت ئادرېسىڭىزنىڭ ئەخلەت ساندۇغىنى تەكشۈرۈڭ."
+
+#: contrib/admin/templates/registration/password_reset_email.html:2
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr "سىز بۇ ئېلخەتنى تاپشۇرۇب ئالدىڭىز، چۈنكى ، %(site_name)s دىكى ئىشلەتكۈچى ھېساباتىڭىزنىڭ پارولىنى قايتا بەلگىلەشنى ئىلتىماس قىلدى."
+
+#: contrib/admin/templates/registration/password_reset_email.html:4
+msgid "Please go to the following page and choose a new password:"
+msgstr "كىيىنكى بەتكە كىرىڭ ۋە بىر شىفرە تاللاڭ:"
+
+#: contrib/admin/templates/registration/password_reset_email.html:8
+msgid "Your username, in case you’ve forgotten:"
+msgstr "ئىشلەتكۈچى ئىسمىڭىز، ئۇنتۇپ قالغان ئەھۋال ئاستىدا:"
+
+#: contrib/admin/templates/registration/password_reset_email.html:10
+msgid "Thanks for using our site!"
+msgstr "تور بېكىتىمىزنى ئىشلەتكىنىڭىز ئۈچۈن رەھمەت!"
+
+#: contrib/admin/templates/registration/password_reset_email.html:12
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "%(site_name)s قوشۇنى"
+
+#: contrib/admin/templates/registration/password_reset_form.html:14
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr "شىفرىڭىزنى ئۇنتۇپ قالدىڭىزمۇ؟ تۆۋەنگە ئېلىكتىرونلۇق ئېلىخەت ئادرىسىڭىزنى كىرگۈزۈڭ، يېڭىسىنى تەڭشەش ئۈچۈن كۆرسەتمىلىك ئېلىخەت ئەۋەتىمىز ."
+
+#: contrib/admin/templates/registration/password_reset_form.html:20
+msgid "Email address:"
+msgstr "ئېلخەت ئادرېسى:"
+
+#: contrib/admin/templates/registration/password_reset_form.html:23
+msgid "Reset my password"
+msgstr "پارولىمنى قايتا بەلگىلەش"
+
+#: contrib/admin/templatetags/admin_list.py:433
+msgid "All dates"
+msgstr "بارلىق چىسلا"
+
+#: contrib/admin/views/main.py:125
+#, python-format
+msgid "Select %s"
+msgstr "%sنى تاللاش"
+
+#: contrib/admin/views/main.py:127
+#, python-format
+msgid "Select %s to change"
+msgstr "تاللانغان %sنى ئۆزگەرتش"
+
+#: contrib/admin/views/main.py:129
+#, python-format
+msgid "Select %s to view"
+msgstr "تاللانغان %sنى كۆرۈش"
+
+#: contrib/admin/widgets.py:90
+msgid "Date:"
+msgstr "چېسلا:"
+
+#: contrib/admin/widgets.py:91
+msgid "Time:"
+msgstr "ۋاقتى:"
+
+#: contrib/admin/widgets.py:155
+msgid "Lookup"
+msgstr "ئىزدە"
+
+#: contrib/admin/widgets.py:375
+msgid "Currently:"
+msgstr "نۆۋەتتە:"
+
+#: contrib/admin/widgets.py:376
+msgid "Change:"
+msgstr "ئۆزگەرتىش:"

@@ -174,11 +174,11 @@ msgstr ""
 
 #: contrib/auth/hashers.py:513
 msgid "checksum"
-msgstr ""
+msgstr "تەكشۈرۈش يىغىندىسى"
 
 #: contrib/auth/hashers.py:607
 msgid "block size"
-msgstr ""
+msgstr "بۆلەك چوڭلۇقى"
 
 #: contrib/auth/models.py:62 contrib/auth/models.py:116
 msgid "name"
@@ -190,11 +190,11 @@ msgstr "مەزمۇن تىپى"
 
 #: contrib/auth/models.py:68
 msgid "codename"
-msgstr ""
+msgstr "كود ئىسمى"
 
 #: contrib/auth/models.py:73
 msgid "permission"
-msgstr ""
+msgstr "ھوقۇق"
 
 #: contrib/auth/models.py:74 contrib/auth/models.py:119
 msgid "permissions"
@@ -206,7 +206,7 @@ msgstr "گۇرۇپپا"
 
 #: contrib/auth/models.py:127 contrib/auth/models.py:258
 msgid "groups"
-msgstr ""
+msgstr "گۇرۇپپىلار"
 
 #: contrib/auth/models.py:249
 msgid "superuser status"

@@ -1,0 +1,1600 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# abdl erkin <84247764@qq.com>, 2018
+# Abduqadir Abliz <sahranbay@gmail.com>, 2023
+# Azat, 2023
+# Murat Orhun <oku.orhun@gmail.com>, 2023
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-17 02:13-0600\n"
+"PO-Revision-Date: 2013-04-25 06:49+0000\n"
+"Last-Translator: Azat, 2023\n"
+"Language-Team: Uyghur (http://app.transifex.com/django/django/language/ug/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ug\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: conf/global_settings.py:57
+msgid "Afrikaans"
+msgstr "ئافرىكانسچە"
+
+#: conf/global_settings.py:58
+msgid "Arabic"
+msgstr "ئەرەبچە"
+
+#: conf/global_settings.py:59
+msgid "Algerian Arabic"
+msgstr "ئالجىرىيە ئەرەپچىسى"
+
+#: conf/global_settings.py:60
+msgid "Asturian"
+msgstr "ئاستۇرىچە"
+
+#: conf/global_settings.py:61
+msgid "Azerbaijani"
+msgstr "ئەزەربەيجانچە"
+
+#: conf/global_settings.py:62
+msgid "Bulgarian"
+msgstr "بۇلغارچە"
+
+#: conf/global_settings.py:63
+msgid "Belarusian"
+msgstr "بېلورۇسىچە"
+
+#: conf/global_settings.py:64
+msgid "Bengali"
+msgstr "بېنگالچە"
+
+#: conf/global_settings.py:65
+msgid "Breton"
+msgstr "بىرېتونچە"
+
+#: conf/global_settings.py:66
+msgid "Bosnian"
+msgstr "بوسنىيەچە"
+
+#: conf/global_settings.py:67
+msgid "Catalan"
+msgstr "كاتالانچە"
+
+#: conf/global_settings.py:68
+msgid "Central Kurdish (Sorani)"
+msgstr "مەركىزى كۇردچە ( سورانى) "
+
+#: conf/global_settings.py:69
+msgid "Czech"
+msgstr "چېخچە"
+
+#: conf/global_settings.py:70
+msgid "Welsh"
+msgstr "ۋېلشچە"
+
+#: conf/global_settings.py:71
+msgid "Danish"
+msgstr "دانىشچە"
+
+#: conf/global_settings.py:72
+msgid "German"
+msgstr "گىرمانچە"
+
+#: conf/global_settings.py:73
+msgid "Lower Sorbian"
+msgstr "تۆۋەن سوربچە"
+
+#: conf/global_settings.py:74
+msgid "Greek"
+msgstr "گىرېكچە"
+
+#: conf/global_settings.py:75
+msgid "English"
+msgstr "ئىنگلىزچە"
+
+#: conf/global_settings.py:76
+msgid "Australian English"
+msgstr "ئاۋىستىرالىيە ئىنگلزچىسى\n "
+
+#: conf/global_settings.py:77
+msgid "British English"
+msgstr "ئەنگىلىيە ئىنگىلىزچىسى"
+
+#: conf/global_settings.py:78
+msgid "Esperanto"
+msgstr "دۇنيا تىلى"
+
+#: conf/global_settings.py:79
+msgid "Spanish"
+msgstr "ئىسپانچە"
+
+#: conf/global_settings.py:80
+msgid "Argentinian Spanish"
+msgstr "ئارگېنتىنا ئىسپانچىسى"
+
+#: conf/global_settings.py:81
+msgid "Colombian Spanish"
+msgstr "كولۇمبىيە ئىسپانچىسى"
+
+#: conf/global_settings.py:82
+msgid "Mexican Spanish"
+msgstr "مېكسىكا ئىسپانچىسى"
+
+#: conf/global_settings.py:83
+msgid "Nicaraguan Spanish"
+msgstr "نىكاراگۇئا ئىسپاچىسى"
+
+#: conf/global_settings.py:84
+msgid "Venezuelan Spanish"
+msgstr "ۋېنېزۇئېلا ئىسپانچىسى"
+
+#: conf/global_settings.py:85
+msgid "Estonian"
+msgstr "ئېستونىيەچە"
+
+#: conf/global_settings.py:86
+msgid "Basque"
+msgstr "بەسىكچە"
+
+#: conf/global_settings.py:87
+msgid "Persian"
+msgstr "پارىسچە"
+
+#: conf/global_settings.py:88
+msgid "Finnish"
+msgstr "ڧىنلانىدچە"
+
+#: conf/global_settings.py:89
+msgid "French"
+msgstr "ڧىرانسۇزچە"
+
+#: conf/global_settings.py:90
+msgid "Frisian"
+msgstr "فىرىزىيەچە"
+
+#: conf/global_settings.py:91
+msgid "Irish"
+msgstr "ئىرېلاندىيەچە"
+
+#: conf/global_settings.py:92
+msgid "Scottish Gaelic"
+msgstr "شوتلاندىيەچە"
+
+#: conf/global_settings.py:93
+msgid "Galician"
+msgstr "گالىچىيەچە"
+
+#: conf/global_settings.py:94
+msgid "Hebrew"
+msgstr "ئىبرانىچە"
+
+#: conf/global_settings.py:95
+msgid "Hindi"
+msgstr "ھىندىچە"
+
+#: conf/global_settings.py:96
+msgid "Croatian"
+msgstr "كىرودىيەچە"
+
+#: conf/global_settings.py:97
+msgid "Upper Sorbian"
+msgstr "يۇقىرى سوربچە"
+
+#: conf/global_settings.py:98
+msgid "Hungarian"
+msgstr "ماجارچە"
+
+#: conf/global_settings.py:99
+msgid "Armenian"
+msgstr "ئارمىنىيەچە"
+
+#: conf/global_settings.py:100
+msgid "Interlingua"
+msgstr "خەلقئارالىق تىل"
+
+#: conf/global_settings.py:101
+msgid "Indonesian"
+msgstr "ھىندىنوزىيەچە"
+
+#: conf/global_settings.py:102
+msgid "Igbo"
+msgstr "ئىبوچە"
+
+#: conf/global_settings.py:103
+msgid "Ido"
+msgstr "ئىيدوچە"
+
+#: conf/global_settings.py:104
+msgid "Icelandic"
+msgstr "ئىسلاندىيەچە"
+
+#: conf/global_settings.py:105
+msgid "Italian"
+msgstr "ئىتالىيەچە"
+
+#: conf/global_settings.py:106
+msgid "Japanese"
+msgstr "ياپونچە"
+
+#: conf/global_settings.py:107
+msgid "Georgian"
+msgstr "گرۇزىيەچە"
+
+#: conf/global_settings.py:108
+msgid "Kabyle"
+msgstr "كەبىيلچە"
+
+#: conf/global_settings.py:109
+msgid "Kazakh"
+msgstr "قازاقچە"
+
+#: conf/global_settings.py:110
+msgid "Khmer"
+msgstr "كامىيرچە"
+
+#: conf/global_settings.py:111
+msgid "Kannada"
+msgstr "كانناداچە"
+
+#: conf/global_settings.py:112
+msgid "Korean"
+msgstr "كورىيەچە"
+
+#: conf/global_settings.py:113
+msgid "Kyrgyz"
+msgstr "قىرغىزچە"
+
+#: conf/global_settings.py:114
+msgid "Luxembourgish"
+msgstr "لىيۇكسېمبۇرگچە"
+
+#: conf/global_settings.py:115
+msgid "Lithuanian"
+msgstr "لىتۋاچە"
+
+#: conf/global_settings.py:116
+msgid "Latvian"
+msgstr "لاتۋىيەچە"
+
+#: conf/global_settings.py:117
+msgid "Macedonian"
+msgstr "ماكېدونىيەچە"
+
+#: conf/global_settings.py:118
+msgid "Malayalam"
+msgstr "مالىيالامچە"
+
+#: conf/global_settings.py:119
+msgid "Mongolian"
+msgstr "مۇڭغۇلچە"
+
+#: conf/global_settings.py:120
+msgid "Marathi"
+msgstr "ماراتىچە"
+
+#: conf/global_settings.py:121
+msgid "Malay"
+msgstr "مالايچە"
+
+#: conf/global_settings.py:122
+msgid "Burmese"
+msgstr "بېرمىچە"
+
+#: conf/global_settings.py:123
+msgid "Norwegian Bokmål"
+msgstr "نورۋېگىيە بوكمىلچىسى"
+
+#: conf/global_settings.py:124
+msgid "Nepali"
+msgstr "نېپالچە"
+
+#: conf/global_settings.py:125
+msgid "Dutch"
+msgstr "گوللاندىيەچە"
+
+#: conf/global_settings.py:126
+msgid "Norwegian Nynorsk"
+msgstr "نورۋېگىيە نىنورسكچىسى"
+
+#: conf/global_settings.py:127
+msgid "Ossetic"
+msgstr "ئوسېتچە"
+
+#: conf/global_settings.py:128
+msgid "Punjabi"
+msgstr "پۇنجابىچە"
+
+#: conf/global_settings.py:129
+msgid "Polish"
+msgstr "پولشاچە"
+
+#: conf/global_settings.py:130
+msgid "Portuguese"
+msgstr "پورتۇگالچە"
+
+#: conf/global_settings.py:131
+msgid "Brazilian Portuguese"
+msgstr "بىرازىلىيە پورتۇگالچىسى"
+
+#: conf/global_settings.py:132
+msgid "Romanian"
+msgstr "رومەينىيەچە"
+
+#: conf/global_settings.py:133
+msgid "Russian"
+msgstr "رۇسچە"
+
+#: conf/global_settings.py:134
+msgid "Slovak"
+msgstr "سلوۋاكىيەچە"
+
+#: conf/global_settings.py:135
+msgid "Slovenian"
+msgstr "سىلوۋېنىيەچە"
+
+#: conf/global_settings.py:136
+msgid "Albanian"
+msgstr "ئالبانىيەچە"
+
+#: conf/global_settings.py:137
+msgid "Serbian"
+msgstr "سېربىيەچە"
+
+#: conf/global_settings.py:138
+msgid "Serbian Latin"
+msgstr "سېربىيە لاتىنچىسى"
+
+#: conf/global_settings.py:139
+msgid "Swedish"
+msgstr "شىۋىتسىيەچە"
+
+#: conf/global_settings.py:140
+msgid "Swahili"
+msgstr "سۋاھىلچە"
+
+#: conf/global_settings.py:141
+msgid "Tamil"
+msgstr "تامىلچە"
+
+#: conf/global_settings.py:142
+msgid "Telugu"
+msgstr "تېلۇگۇ"
+
+#: conf/global_settings.py:143
+msgid "Tajik"
+msgstr "تاجىكچە"
+
+#: conf/global_settings.py:144
+msgid "Thai"
+msgstr "تايلاندچە"
+
+#: conf/global_settings.py:145
+msgid "Turkmen"
+msgstr "تۈركمەنچە"
+
+#: conf/global_settings.py:146
+msgid "Turkish"
+msgstr "تۈركچە"
+
+#: conf/global_settings.py:147
+msgid "Tatar"
+msgstr "تاتارچە"
+
+#: conf/global_settings.py:148
+msgid "Udmurt"
+msgstr "ئۇدمۇرتچە"
+
+#: conf/global_settings.py:149
+msgid "Ukrainian"
+msgstr "ئۇكرائىنچە"
+
+#: conf/global_settings.py:150
+msgid "Urdu"
+msgstr "ئوردۇچە"
+
+#: conf/global_settings.py:151
+msgid "Uzbek"
+msgstr "ئۆزبەكچە"
+
+#: conf/global_settings.py:152
+msgid "Vietnamese"
+msgstr "ۋېيتنامچە"
+
+#: conf/global_settings.py:153
+msgid "Simplified Chinese"
+msgstr "خەنزۇچە"
+
+#: conf/global_settings.py:154
+msgid "Traditional Chinese"
+msgstr "ئەنئەنىۋى خەنزۇچىسى"
+
+#: contrib/messages/apps.py:15
+msgid "Messages"
+msgstr "قىسقا ئۇچۇر"
+
+#: contrib/sitemaps/apps.py:8
+msgid "Site Maps"
+msgstr "بېكەت خەرىتىسى"
+
+#: contrib/staticfiles/apps.py:9
+msgid "Static Files"
+msgstr "سىتاتىك ھۆججەت"
+
+#: contrib/syndication/apps.py:7
+msgid "Syndication"
+msgstr "تەشكىللىنىش"
+
+#. Translators: String used to replace omitted page numbers in elided page
+#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
+#: core/paginator.py:30
+msgid "…"
+msgstr "…"
+
+#: core/paginator.py:50
+msgid "That page number is not an integer"
+msgstr "بەت نومۇرى پۈتۈن سان ئەمەس"
+
+#: core/paginator.py:52
+msgid "That page number is less than 1"
+msgstr "بەت نومۇرى 1 دىن كىچىك"
+
+#: core/paginator.py:54
+msgid "That page contains no results"
+msgstr "ئۇ بەتتە ھېچقانداق نەتىجە يوق"
+
+#: core/validators.py:22
+msgid "Enter a valid value."
+msgstr "بىر ئىناۋەتلىك قىممەتنى تولدۇرۇڭ"
+
+#: core/validators.py:104 forms/fields.py:749
+msgid "Enter a valid URL."
+msgstr "ئىناۋەتلىك URL نى تولدۇرۇڭ"
+
+#: core/validators.py:164
+msgid "Enter a valid integer."
+msgstr "ئىناۋەتلىك پۈتۈن سان تولدۇرۇڭ"
+
+#: core/validators.py:175
+msgid "Enter a valid email address."
+msgstr "ئىناۋەتلىك ئېلخەت ئادرېسىنى كىرگۈزۈڭ."
+
+#. Translators: "letters" means latin letters: a-z and A-Z.
+#: core/validators.py:256
+msgid ""
+"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr "ھەرپ ، سان ، ئاستى سىزىق ياكى سىزىقچىلاردىن تەركىب تاپقان ئۈنۈملۈك «سىلاگ» نى كىرگۈزۈڭ."
+
+#: core/validators.py:264
+msgid ""
+"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or"
+" hyphens."
+msgstr "يۇنىكودلۇق ھەرپ، سان، ئاستى سىزىق ياكى سىزىقچىلاردىن تەركىب تاپقان ئۈنۈملۈك «slug» نى كىرگۈزۈڭ."
+
+#: core/validators.py:276 core/validators.py:284 core/validators.py:313
+msgid "Enter a valid IPv4 address."
+msgstr "ئىناۋەتلىك IPv4 ئادرېسىنى كىرگۈزۈڭ."
+
+#: core/validators.py:293 core/validators.py:314
+msgid "Enter a valid IPv6 address."
+msgstr "ئىناۋەتلىك IPv6 ئادرېسىنى كىرگۈزۈڭ."
+
+#: core/validators.py:305 core/validators.py:312
+msgid "Enter a valid IPv4 or IPv6 address."
+msgstr "ئىناۋەتلىك IPv4 ياكى IPv6 ئادرېسىنى كىرگۈزۈڭ."
+
+#: core/validators.py:348
+msgid "Enter only digits separated by commas."
+msgstr "پەش ئارقىلىق ئايرىلغان رەقەملەرنىلا كىرگۈزۈڭ."
+
+#: core/validators.py:354
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "بۇ قىممەتنىڭ %(limit_value)s بولىشىغا كاپالەتلىك قىلىڭ ( ھازىر %(show_value)s)"
+
+#: core/validators.py:389
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "بۇ قىممەتنىڭ %(limit_value)s دىن تۆۋەن ياكى تەڭ بولۇشىغا كاپالەتلىك قىلىڭ"
+
+#: core/validators.py:398
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "بۇ قىممەتنىڭ %(limit_value)s دىن چوڭ ياكى تەڭ بولۇشىغا كاپالەتلىك قىلىڭ"
+
+#: core/validators.py:407
+#, python-format
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr "بۇ قىممەتنىڭ %(limit_value)s نىڭ كۆپەيتمىسى بولىشىغا كاپالەتلىك قىلىڭ"
+
+#: core/validators.py:417
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] "بۇ قىممەتنىڭ كەم دېگەندە %(limit_value)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ھازىر %(show_value)d بار)."
+msgstr[1] "بۇ قىممەتنىڭ كەم دېگەندە %(limit_value)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ھازىر %(show_value)d بار)."
+
+#: core/validators.py:435
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d character (it has "
+"%(show_value)d)."
+msgid_plural ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr[0] "بۇ قىممەتنىڭ ئەڭ كۆپ بولغاندا %(limit_value)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ھازىر %(show_value)d بار)."
+msgstr[1] "بۇ قىممەتنىڭ ئەڭ كۆپ بولغاندا %(limit_value)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ئۇنىڭدا %(show_value)d بار). "
+
+#: core/validators.py:458 forms/fields.py:347 forms/fields.py:386
+msgid "Enter a number."
+msgstr "سان كىرگۈزۈڭ."
+
+#: core/validators.py:460
+#, python-format
+msgid "Ensure that there are no more than %(max)s digit in total."
+msgid_plural "Ensure that there are no more than %(max)s digits in total."
+msgstr[0] "جەمى 4%(max)s خانىدىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+msgstr[1] "جەمى %(max)s خانىدىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+
+#: core/validators.py:465
+#, python-format
+msgid "Ensure that there are no more than %(max)s decimal place."
+msgid_plural "Ensure that there are no more than %(max)s decimal places."
+msgstr[0] "%(max)s ئونلۇق ئورۇندىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+msgstr[1] "%(max)s ئونلۇق ئورۇندىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+
+#: core/validators.py:470
+#, python-format
+msgid ""
+"Ensure that there are no more than %(max)s digit before the decimal point."
+msgid_plural ""
+"Ensure that there are no more than %(max)s digits before the decimal point."
+msgstr[0] "ئونلۇق نۇقتىدىن ئىلگىرى %(max)s خانىدىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+msgstr[1] "ئونلۇق نۇقتىدىن ئىلگىرى %(max)s خانىدىن ئېشىپ كەتمەسلىكىگە كاپالەتلىك قىلىڭ."
+
+#: core/validators.py:541
+#, python-format
+msgid ""
+"File extension “%(extension)s” is not allowed. Allowed extensions are: "
+"%(allowed_extensions)s."
+msgstr "ھۆججەت كېڭەيتىشكە «%(extension)s» رۇخسەت قىلىنمايدۇ. رۇخسەت قىلىنغان كېڭەيتىلمە: %(allowed_extensions)s."
+
+#: core/validators.py:602
+msgid "Null characters are not allowed."
+msgstr "بوش ھەرپلەرگە رۇخسەت قىلىنمايدۇ."
+
+#: db/models/base.py:1423 forms/models.py:893
+msgid "and"
+msgstr "ۋە"
+
+#: db/models/base.py:1425
+#, python-format
+msgid "%(model_name)s with this %(field_labels)s already exists."
+msgstr "%(model_name)s بىلەن بۇ %(field_labels)s مەۋجۇت."
+
+#: db/models/constraints.py:17
+#, python-format
+msgid "Constraint “%(name)s” is violated."
+msgstr "«%(name)s» چەكلىمىسى بۇزۇلدى."
+
+#: db/models/fields/__init__.py:128
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr "قىممەت %(value)r ئىناۋەتسىز."
+
+#: db/models/fields/__init__.py:129
+msgid "This field cannot be null."
+msgstr "بۇ ئورۇننى بوش قويۇشقا بولمايدۇ"
+
+#: db/models/fields/__init__.py:130
+msgid "This field cannot be blank."
+msgstr "بۇ ئورۇننى بوش قويۇشقا بولمايدۇ"
+
+#: db/models/fields/__init__.py:131
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr "بۇ %(field_label)s بىلەن %(model_name)s مەۋجۇت."
+
+#. Translators: The 'lookup_type' is one of 'date', 'year' or
+#. 'month'. Eg: "Title must be unique for pub_date year"
+#: db/models/fields/__init__.py:135
+#, python-format
+msgid ""
+"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
+msgstr "%(field_label)s چوقۇم  %(date_field_label)s %(lookup_type)s ئۈچۈن بىردىنبىر بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:173
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr "تىپ تۈرى: %(field_type)s"
+
+#: db/models/fields/__init__.py:1094
+#, python-format
+msgid "“%(value)s” value must be either True or False."
+msgstr "«%(value)s» قىممىتى چوقۇم True ياكى False بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1095
+#, python-format
+msgid "“%(value)s” value must be either True, False, or None."
+msgstr "«%(value)s» قىممىتى چوقۇم True ، False ياكى None بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1097
+msgid "Boolean (Either True or False)"
+msgstr "Boolean (True ياكى False)"
+
+#: db/models/fields/__init__.py:1147
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr "(%(max_length)s گە قەدەر ئۇزۇنلۇقتىكى) ھەرپ-بەلگە"
+
+#: db/models/fields/__init__.py:1149
+msgid "String (unlimited)"
+msgstr "ھەرپ-بەلگە ( ئۇزۇنلۇققا چەكلىمە يوق)"
+
+#: db/models/fields/__init__.py:1253
+msgid "Comma-separated integers"
+msgstr "پەش بىلەن ئايرىلغان پۈتۈن سان"
+
+#: db/models/fields/__init__.py:1354
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
+"format."
+msgstr "«%(value)s» قىممىتى ئىناۋەتسىز ۋاقىت فورماتىدا. ئۇ چوقۇم YYYY-MM-DD شەكلىدە بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1358 db/models/fields/__init__.py:1493
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
+"date."
+msgstr "«%(value)s» قىممىتىنىڭ توغرا فورماتى (YYYY-MM-DD) بار ، ئەمما ئۇ ۋاقىت ئىناۋەتسىز."
+
+#: db/models/fields/__init__.py:1362
+msgid "Date (without time)"
+msgstr "چېسلا (سائەت مىنۇت يوق)"
+
+#: db/models/fields/__init__.py:1489
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ] format."
+msgstr "«%(value)s» قىممىتى ئىناۋەتسىز. ئۇ چوقۇم YYYY-MM-DD HH: MM [: ss [.uuuuuu]] [TZ] شەكلىدە بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1497
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (YYYY-MM-DD "
+"HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
+msgstr "«%(value)s» قىممىتىنىڭ توغرا فورماتى بار (YYYY-MM-DD HH: MM [: ss [.uuuuuu]] [TZ]) ئەمما ئۇ ئىناۋەتسىز كۈن / ۋاقىت."
+
+#: db/models/fields/__init__.py:1502
+msgid "Date (with time)"
+msgstr "چېسلا (ۋاقىت بىلەن)"
+
+#: db/models/fields/__init__.py:1626
+#, python-format
+msgid "“%(value)s” value must be a decimal number."
+msgstr "«%(value)s» قىممىتى چوقۇم پۈتۈن سان بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1628
+msgid "Decimal number"
+msgstr "ئونلۇق سان"
+
+#: db/models/fields/__init__.py:1791
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in [DD] "
+"[[HH:]MM:]ss[.uuuuuu] format."
+msgstr "«%(value)s» قىممىتى ئىناۋەتسىز. ئۇ چوقۇم [DD] [[HH:] MM:] ss [.uuuuuu] شەكلىدە بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1795
+msgid "Duration"
+msgstr "داۋاملىشىش ۋاقتى"
+
+#: db/models/fields/__init__.py:1847
+msgid "Email address"
+msgstr "ئېلخەت ئادرېسى"
+
+#: db/models/fields/__init__.py:1872
+msgid "File path"
+msgstr "ھۆججەت يولى"
+
+#: db/models/fields/__init__.py:1950
+#, python-format
+msgid "“%(value)s” value must be a float."
+msgstr "«%(value)s» قىممىتى چوقۇم لەيلىمە چېكىتلىك مىقتار بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1952
+msgid "Floating point number"
+msgstr "كەسرىلىك سان نومۇر"
+
+#: db/models/fields/__init__.py:1992
+#, python-format
+msgid "“%(value)s” value must be an integer."
+msgstr "«%(value)s» قىممىتى چوقۇم پۈتۈن سان بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:1994
+msgid "Integer"
+msgstr "پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2090
+msgid "Big (8 byte) integer"
+msgstr "چوڭ (8 بايىت) پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2107
+msgid "Small integer"
+msgstr "كىچىك پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2115
+msgid "IPv4 address"
+msgstr "IPv4 ئادرېسى"
+
+#: db/models/fields/__init__.py:2146
+msgid "IP address"
+msgstr "IP ئادرېسى"
+
+#: db/models/fields/__init__.py:2239 db/models/fields/__init__.py:2240
+#, python-format
+msgid "“%(value)s” value must be either None, True or False."
+msgstr "«%(value)s» قىممىتى چوقۇم True ، False ياكى None بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:2242
+msgid "Boolean (Either True, False or None)"
+msgstr "Boolean (True ياكى False)"
+
+#: db/models/fields/__init__.py:2293
+msgid "Positive big integer"
+msgstr "مۇسبەت چوڭ پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2308
+msgid "Positive integer"
+msgstr "مۇسبەت پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2323
+msgid "Positive small integer"
+msgstr "مۇسبەت كىچىك پۈتۈن سان"
+
+#: db/models/fields/__init__.py:2339
+#, python-format
+msgid "Slug (up to %(max_length)s)"
+msgstr "Slug (كۆپ بولغاندا %(max_length)s)"
+
+#: db/models/fields/__init__.py:2375
+msgid "Text"
+msgstr "تېكىست"
+
+#: db/models/fields/__init__.py:2450
+#, python-format
+msgid ""
+"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
+"format."
+msgstr "«%(value)s» قىممىتى ئىناۋەتسىز. ئۇ چوقۇم HH: MM [: ss [.uuuuuu]] شەكلىدە بولۇشى كېرەك."
+
+#: db/models/fields/__init__.py:2454
+#, python-format
+msgid ""
+"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
+"invalid time."
+msgstr "«%(value)s» قىممىتىنىڭ توغرا فورماتى بار (HH: MM [: ss [.uuuuuu]]) ئەمما ئۇ ئىناۋەتسىز ۋاقىت."
+
+#: db/models/fields/__init__.py:2458
+msgid "Time"
+msgstr "ۋاقىت"
+
+#: db/models/fields/__init__.py:2566
+msgid "URL"
+msgstr "URL"
+
+#: db/models/fields/__init__.py:2590
+msgid "Raw binary data"
+msgstr "خام ئىككىلىك سان"
+
+#: db/models/fields/__init__.py:2655
+#, python-format
+msgid "“%(value)s” is not a valid UUID."
+msgstr "«%(value)s» ئىناۋەتلىك UUID ئەمەس."
+
+#: db/models/fields/__init__.py:2657
+msgid "Universally unique identifier"
+msgstr "ئۇنىۋېرسال بىردىنبىر كىملىك"
+
+#: db/models/fields/files.py:233
+msgid "File"
+msgstr "ھۆججەت"
+
+#: db/models/fields/files.py:393
+msgid "Image"
+msgstr "رەسىم"
+
+#: db/models/fields/json.py:26
+msgid "A JSON object"
+msgstr "JSON ئوبيېكتى"
+
+#: db/models/fields/json.py:28
+msgid "Value must be valid JSON."
+msgstr "چوقۇم ئىناۋەتلىك JSON بولۇشى كېرەك."
+
+#: db/models/fields/related.py:921
+#, python-format
+msgid "%(model)s instance with %(field)s %(value)r does not exist."
+msgstr "مىسال %(value)r %(field)s قىممىتى بولغان %(model)s مەۋجۇت ئەمەس."
+
+#: db/models/fields/related.py:923
+msgid "Foreign Key (type determined by related field)"
+msgstr "سىرتقى  ئاچقۇچ (تىپى مۇناسىۋەتلىك مەيدان تەرىپىدىن بېكىتىلگەن)"
+
+#: db/models/fields/related.py:1214
+msgid "One-to-one relationship"
+msgstr "بىرمۇبىر مۇناسىۋەت"
+
+#: db/models/fields/related.py:1271
+#, python-format
+msgid "%(from)s-%(to)s relationship"
+msgstr "%(from)s-%(to)s مۇناسىۋەت"
+
+#: db/models/fields/related.py:1273
+#, python-format
+msgid "%(from)s-%(to)s relationships"
+msgstr "%(from)s-%(to)s مۇناسىۋەتلەر"
+
+#: db/models/fields/related.py:1321
+msgid "Many-to-many relationship"
+msgstr "كۆپكە كۆب مۇناسىۋىتى"
+
+#. Translators: If found as last label character, these punctuation
+#. characters will prevent the default label_suffix to be appended to the
+#. label
+#: forms/boundfield.py:184
+msgid ":?.!"
+msgstr ":?.!"
+
+#: forms/fields.py:91
+msgid "This field is required."
+msgstr "بۇ رايون تەلەپ قىلىنىدۇ."
+
+#: forms/fields.py:298
+msgid "Enter a whole number."
+msgstr "پۈتۈن ساننى كىرگۈزۈڭ."
+
+#: forms/fields.py:467 forms/fields.py:1238
+msgid "Enter a valid date."
+msgstr "ئىناۋەتلىك چېسلانى كىرگۈزۈڭ."
+
+#: forms/fields.py:490 forms/fields.py:1239
+msgid "Enter a valid time."
+msgstr "ئىناۋەتلىك ۋاقىت كىرگۈزۈڭ."
+
+#: forms/fields.py:517
+msgid "Enter a valid date/time."
+msgstr "ئىناۋەتلىك چېسلا / ۋاقىت كىرگۈزۈڭ."
+
+#: forms/fields.py:551
+msgid "Enter a valid duration."
+msgstr "ئىناۋەتلىك مۇددىتىنى كىرگۈزۈڭ."
+
+#: forms/fields.py:552
+#, python-brace-format
+msgid "The number of days must be between {min_days} and {max_days}."
+msgstr "كۈن سانى چوقۇم {min_days} بىلەن {max_days} ئارىسىدا بولۇشى كېرەك."
+
+#: forms/fields.py:618
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr "ھېچقانداق ھۆججەت يوللانمىدى. جەدۋەلدىكى كودلاش تۈرىنى تەكشۈرۈڭ."
+
+#: forms/fields.py:619
+msgid "No file was submitted."
+msgstr "ھېچقانداق ھۆججەت يوللانمىدى."
+
+#: forms/fields.py:620
+msgid "The submitted file is empty."
+msgstr "يوللانغان ھۆججەت قۇرۇق."
+
+#: forms/fields.py:622
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d character (it has %(length)d)."
+msgid_plural ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr[0] "بۇ ھۆججەت نامىنىڭ ئەڭ كۆپ بولغاندا %(max)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ئۇنىڭدا %(length)d بار)."
+msgstr[1] "بۇ ھۆججەت نامىنىڭ ئەڭ كۆپ بولغاندا %(max)d ھەرپ بولۇشىغا كاپالەتلىك قىلىڭ (ئۇنىڭدا %(length)d بار)."
+
+#: forms/fields.py:627
+msgid "Please either submit a file or check the clear checkbox, not both."
+msgstr "ھۆججەت يوللاڭ ياكى تەكشۈرۈش رامكىسىنى تەكشۈرۈڭ ، ھەر ئىككىسىنى ئەمەس."
+
+#: forms/fields.py:691
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr "ئىناۋەتلىك رەسىم يۈكلەڭ. سىز يۈكلىگەن ھۆججەت يا رەسىم  ئەمەس ۋەياكى بۇزۇلغان."
+
+#: forms/fields.py:854 forms/fields.py:946 forms/models.py:1566
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr "ئۈنۈملۈك تاللاشنى تاللاڭ. %(value)s تاللاشلارنىڭ بىرى ئەمەس."
+
+#: forms/fields.py:948 forms/fields.py:1067 forms/models.py:1564
+msgid "Enter a list of values."
+msgstr "قىممەت تىزىملىكىنى كىرگۈزۈڭ."
+
+#: forms/fields.py:1068
+msgid "Enter a complete value."
+msgstr "تولۇق قىممەت كىرگۈزۈڭ."
+
+#: forms/fields.py:1307
+msgid "Enter a valid UUID."
+msgstr "ئىناۋەتلىك UUID نى كىرگۈزۈڭ."
+
+#: forms/fields.py:1337
+msgid "Enter a valid JSON."
+msgstr "ئىناۋەتلىك JSON نى كىرگۈزۈڭ."
+
+#. Translators: This is the default suffix added to form field labels
+#: forms/forms.py:98
+msgid ":"
+msgstr ":"
+
+#: forms/forms.py:244 forms/forms.py:328
+#, python-format
+msgid "(Hidden field %(name)s) %(error)s"
+msgstr "(يوشۇرۇن مەيدان %(name)s) %(error)s"
+
+#: forms/formsets.py:63
+#, python-format
+msgid ""
+"ManagementForm data is missing or has been tampered with. Missing fields: "
+"%(field_names)s. You may need to file a bug report if the issue persists."
+msgstr "ManagementForm سانلىق مەلۇماتلىرى يوقاپ كەتتى ياكى ئۆزگەرتىلدى. يوقاپ كەتكەن ساھە: %(field_names)s. ئەگەر مەسىلە ساقلىنىپ قالسا ، خاتالىق دوكلاتىنى تاپشۇرۇشىڭىز كېرەك."
+
+#: forms/formsets.py:67
+#, python-format
+msgid "Please submit at most %(num)d form."
+msgid_plural "Please submit at most %(num)d forms."
+msgstr[0] "ئەڭ كۆپ بولغاندا %(num)d جەدۋەلنى يوللاڭ."
+msgstr[1] "ئەڭ كۆپ بولغاندا %(num)d جەدۋەلنى يوللاڭ."
+
+#: forms/formsets.py:72
+#, python-format
+msgid "Please submit at least %(num)d form."
+msgid_plural "Please submit at least %(num)d forms."
+msgstr[0] "كەم دېگەندە %(num)d جەدۋەلنى يوللاڭ."
+msgstr[1] "كەم دېگەندە %(num)d جەدۋەلنى يوللاڭ."
+
+#: forms/formsets.py:484 forms/formsets.py:491
+msgid "Order"
+msgstr "زاكاز"
+
+#: forms/formsets.py:497
+msgid "Delete"
+msgstr "ئۆچۈرۈش"
+
+#: forms/models.py:886
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr "%(field)s نىڭ قايتىلانغان سانلىق مەلۇماتلىرىنى تۈزىتىڭ."
+
+#: forms/models.py:891
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr "%(field)s نىڭ كۆپەيتىلگەن سانلىق مەلۇماتلىرىنى تۈزىتىڭ ، بۇ چوقۇم ئۆزگىچە بولۇشى كېرەك."
+
+#: forms/models.py:898
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr "%(field_name)s دىكى قايتىلانغان سانلىق مەلۇماتنى تۈزىتىڭ ، بۇ چوقۇم %(date_field)s دىكى %(lookup)s غا خاس بولۇشى كېرەك."
+
+#: forms/models.py:907
+msgid "Please correct the duplicate values below."
+msgstr "تۆۋەندىكى قايتىلانغان قىممەتنى تۈزىتىڭ."
+
+#: forms/models.py:1338
+msgid "The inline value did not match the parent instance."
+msgstr "ئىچكى قىممەت ئاتا مىسالغا ماس كەلمىدى."
+
+#: forms/models.py:1429
+msgid ""
+"Select a valid choice. That choice is not one of the available choices."
+msgstr "ئۈنۈملۈك تاللاشنى تاللاڭ. بۇ تاللاش ئىشلەتكىلى بولىدىغان تاللاشلارنىڭ بىرى ئەمەس."
+
+#: forms/models.py:1568
+#, python-format
+msgid "“%(pk)s” is not a valid value."
+msgstr "«%(pk)s» ئىناۋەتلىك قىممەت ئەمەس."
+
+#: forms/utils.py:226
+#, python-format
+msgid ""
+"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
+"may be ambiguous or it may not exist."
+msgstr "%(datetime)s نى %(current_timezone)s ۋاقىت رايونىدا ئىزاھلاشقا بولمايدۇ ئۇ مۈجمەل بولۇشى مۇمكىن ياكى ئۇ مەۋجۇت بولماسلىقى مۇمكىن."
+
+#: forms/widgets.py:439
+msgid "Clear"
+msgstr "تازىلاش"
+
+#: forms/widgets.py:440
+msgid "Currently"
+msgstr "نۆۋەتتە"
+
+#: forms/widgets.py:441
+msgid "Change"
+msgstr "ئۆزگەرتىش"
+
+#: forms/widgets.py:771
+msgid "Unknown"
+msgstr "نامەلۇم"
+
+#: forms/widgets.py:772
+msgid "Yes"
+msgstr "ھەئە"
+
+#: forms/widgets.py:773
+msgid "No"
+msgstr "ياق"
+
+#. Translators: Please do not add spaces around commas.
+#: template/defaultfilters.py:860
+msgid "yes,no,maybe"
+msgstr "ھەئە، ياق، بەلكىىم"
+
+#: template/defaultfilters.py:890 template/defaultfilters.py:907
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] "%(size)d بايىت"
+msgstr[1] "%(size)d بايىت"
+
+#: template/defaultfilters.py:909
+#, python-format
+msgid "%s KB"
+msgstr "%s كىلوبايت"
+
+#: template/defaultfilters.py:911
+#, python-format
+msgid "%s MB"
+msgstr "%sمېگا بايىت"
+
+#: template/defaultfilters.py:913
+#, python-format
+msgid "%s GB"
+msgstr "%sگىگا بايىت"
+
+#: template/defaultfilters.py:915
+#, python-format
+msgid "%s TB"
+msgstr "%s تېرا بايت"
+
+#: template/defaultfilters.py:917
+#, python-format
+msgid "%s PB"
+msgstr "%s پېتا بايىت"
+
+#: utils/dateformat.py:73
+msgid "p.m."
+msgstr "p.m."
+
+#: utils/dateformat.py:74
+msgid "a.m."
+msgstr "a.m."
+
+#: utils/dateformat.py:79
+msgid "PM"
+msgstr "PM"
+
+#: utils/dateformat.py:80
+msgid "AM"
+msgstr "AM"
+
+#: utils/dateformat.py:152
+msgid "midnight"
+msgstr "يېرىم كېچىدە"
+
+#: utils/dateformat.py:154
+msgid "noon"
+msgstr "چۈشتە"
+
+#: utils/dates.py:7
+msgid "Monday"
+msgstr "دۈشەنبە"
+
+#: utils/dates.py:8
+msgid "Tuesday"
+msgstr "سەيشەنبە"
+
+#: utils/dates.py:9
+msgid "Wednesday"
+msgstr "چارشەمبە"
+
+#: utils/dates.py:10
+msgid "Thursday"
+msgstr "پەيشەمبە"
+
+#: utils/dates.py:11
+msgid "Friday"
+msgstr "جۈمە"
+
+#: utils/dates.py:12
+msgid "Saturday"
+msgstr "شەنبە"
+
+#: utils/dates.py:13
+msgid "Sunday"
+msgstr "يەكشەنبە"
+
+#: utils/dates.py:16
+msgid "Mon"
+msgstr "دۈش"
+
+#: utils/dates.py:17
+msgid "Tue"
+msgstr "سەي"
+
+#: utils/dates.py:18
+msgid "Wed"
+msgstr "چار"
+
+#: utils/dates.py:19
+msgid "Thu"
+msgstr "پەي"
+
+#: utils/dates.py:20
+msgid "Fri"
+msgstr "جۈ"
+
+#: utils/dates.py:21
+msgid "Sat"
+msgstr "شەن"
+
+#: utils/dates.py:22
+msgid "Sun"
+msgstr "يەك"
+
+#: utils/dates.py:25
+msgid "January"
+msgstr "يانۋار"
+
+#: utils/dates.py:26
+msgid "February"
+msgstr "فېۋرال"
+
+#: utils/dates.py:27
+msgid "March"
+msgstr "مارت"
+
+#: utils/dates.py:28
+msgid "April"
+msgstr "ئاپرىل"
+
+#: utils/dates.py:29
+msgid "May"
+msgstr "ماي"
+
+#: utils/dates.py:30
+msgid "June"
+msgstr "ئىيۇن"
+
+#: utils/dates.py:31
+msgid "July"
+msgstr "ئىيۇل"
+
+#: utils/dates.py:32
+msgid "August"
+msgstr "ئاۋغۇست"
+
+#: utils/dates.py:33
+msgid "September"
+msgstr "سىنتەبىر"
+
+#: utils/dates.py:34
+msgid "October"
+msgstr "ئۆكتەبىر"
+
+#: utils/dates.py:35
+msgid "November"
+msgstr "نويابىر"
+
+#: utils/dates.py:36
+msgid "December"
+msgstr "دىكابىر"
+
+#: utils/dates.py:39
+msgid "jan"
+msgstr "يان"
+
+#: utils/dates.py:40
+msgid "feb"
+msgstr "فېۋ"
+
+#: utils/dates.py:41
+msgid "mar"
+msgstr "مار"
+
+#: utils/dates.py:42
+msgid "apr"
+msgstr "ئاپ"
+
+#: utils/dates.py:43
+msgid "may"
+msgstr "ماي"
+
+#: utils/dates.py:44
+msgid "jun"
+msgstr "ئ‍ىيۇن"
+
+#: utils/dates.py:45
+msgid "jul"
+msgstr "ئىيۇل"
+
+#: utils/dates.py:46
+msgid "aug"
+msgstr "ئاۋ"
+
+#: utils/dates.py:47
+msgid "sep"
+msgstr "سېن"
+
+#: utils/dates.py:48
+msgid "oct"
+msgstr "ئۆك"
+
+#: utils/dates.py:49
+msgid "nov"
+msgstr "نوي"
+
+#: utils/dates.py:50
+msgid "dec"
+msgstr "دىك"
+
+#: utils/dates.py:53
+msgctxt "abbrev. month"
+msgid "Jan."
+msgstr "يانۋار"
+
+#: utils/dates.py:54
+msgctxt "abbrev. month"
+msgid "Feb."
+msgstr "فېۋرال"
+
+#: utils/dates.py:55
+msgctxt "abbrev. month"
+msgid "March"
+msgstr "مارت"
+
+#: utils/dates.py:56
+msgctxt "abbrev. month"
+msgid "April"
+msgstr "ئاپرىل"
+
+#: utils/dates.py:57
+msgctxt "abbrev. month"
+msgid "May"
+msgstr "ماي"
+
+#: utils/dates.py:58
+msgctxt "abbrev. month"
+msgid "June"
+msgstr "ئىيۇن"
+
+#: utils/dates.py:59
+msgctxt "abbrev. month"
+msgid "July"
+msgstr "ئىيۇل"
+
+#: utils/dates.py:60
+msgctxt "abbrev. month"
+msgid "Aug."
+msgstr "ئاۋغۇست"
+
+#: utils/dates.py:61
+msgctxt "abbrev. month"
+msgid "Sept."
+msgstr "سېنتەبىر"
+
+#: utils/dates.py:62
+msgctxt "abbrev. month"
+msgid "Oct."
+msgstr "ئۆكتەبىر"
+
+#: utils/dates.py:63
+msgctxt "abbrev. month"
+msgid "Nov."
+msgstr "نويابىر"
+
+#: utils/dates.py:64
+msgctxt "abbrev. month"
+msgid "Dec."
+msgstr "دىكابىر"
+
+#: utils/dates.py:67
+msgctxt "alt. month"
+msgid "January"
+msgstr "يانۋار"
+
+#: utils/dates.py:68
+msgctxt "alt. month"
+msgid "February"
+msgstr "فېۋرال"
+
+#: utils/dates.py:69
+msgctxt "alt. month"
+msgid "March"
+msgstr "مارت"
+
+#: utils/dates.py:70
+msgctxt "alt. month"
+msgid "April"
+msgstr "ئاپرىل"
+
+#: utils/dates.py:71
+msgctxt "alt. month"
+msgid "May"
+msgstr "ماي"
+
+#: utils/dates.py:72
+msgctxt "alt. month"
+msgid "June"
+msgstr "ئىيۇن"
+
+#: utils/dates.py:73
+msgctxt "alt. month"
+msgid "July"
+msgstr "ئىيۇل"
+
+#: utils/dates.py:74
+msgctxt "alt. month"
+msgid "August"
+msgstr "ئاۋغۇست"
+
+#: utils/dates.py:75
+msgctxt "alt. month"
+msgid "September"
+msgstr "سىنتەبىر"
+
+#: utils/dates.py:76
+msgctxt "alt. month"
+msgid "October"
+msgstr "ئۆكتەبىر"
+
+#: utils/dates.py:77
+msgctxt "alt. month"
+msgid "November"
+msgstr "نويابىر"
+
+#: utils/dates.py:78
+msgctxt "alt. month"
+msgid "December"
+msgstr "دىكابىر"
+
+#: utils/ipv6.py:8
+msgid "This is not a valid IPv6 address."
+msgstr "بۇ ئىناۋەتلىك IPv6 ئادرېس ئەمەس."
+
+#: utils/text.py:78
+#, python-format
+msgctxt "String to return when truncating text"
+msgid "%(truncated_text)s…"
+msgstr "%(truncated_text)s…"
+
+#: utils/text.py:254
+msgid "or"
+msgstr "ياكى"
+
+#. Translators: This string is used as a separator between list elements
+#: utils/text.py:273 utils/timesince.py:131
+msgid ", "
+msgstr "،"
+
+#: utils/timesince.py:8
+#, python-format
+msgid "%(num)d year"
+msgid_plural "%(num)d years"
+msgstr[0] "%(num)d يىل"
+msgstr[1] "%(num)d يىل"
+
+#: utils/timesince.py:9
+#, python-format
+msgid "%(num)d month"
+msgid_plural "%(num)d months"
+msgstr[0] "%(num)d ئاي"
+msgstr[1] "%(num)d ئاي"
+
+#: utils/timesince.py:10
+#, python-format
+msgid "%(num)d week"
+msgid_plural "%(num)d weeks"
+msgstr[0] "%(num)d ھەپتە"
+msgstr[1] "%(num)d ھەپتە"
+
+#: utils/timesince.py:11
+#, python-format
+msgid "%(num)d day"
+msgid_plural "%(num)d days"
+msgstr[0] "%(num)d كۈن"
+msgstr[1] "%(num)d كۈن"
+
+#: utils/timesince.py:12
+#, python-format
+msgid "%(num)d hour"
+msgid_plural "%(num)d hours"
+msgstr[0] "%(num)d سائەت"
+msgstr[1] "%(num)d سائەت"
+
+#: utils/timesince.py:13
+#, python-format
+msgid "%(num)d minute"
+msgid_plural "%(num)d minutes"
+msgstr[0] "%(num)d مىنۇت"
+msgstr[1] "%(num)d مىنۇت"
+
+#: views/csrf.py:111
+msgid "Forbidden"
+msgstr "چەكلەنگەن"
+
+#: views/csrf.py:112
+msgid "CSRF verification failed. Request aborted."
+msgstr "CSRF دەلىللەش مەغلۇپ بولدى. تەلەپ ئەمەلدىن قالدۇرۇلدى."
+
+#: views/csrf.py:116
+msgid ""
+"You are seeing this message because this HTTPS site requires a “Referer "
+"header” to be sent by your web browser, but none was sent. This header is "
+"required for security reasons, to ensure that your browser is not being "
+"hijacked by third parties."
+msgstr "چۈنكى بۇ HTTPS تور بېكىتى توركۆرگۈڭىز تەرىپىدىن پايدىلانما ئۇچۇرلىرىنى ئەۋەتىشنى تەلەب قىلىدۇ، ئەمما ھېچقايسىسى ئەۋەتىلمىدى، شۇ سەۋەبتىن سىز بۇ ئۇچۇرنى كۆرىۋاتىسىز.\nبۇ ئۇچۇرلار سىزنىڭ بىخەتەرلىكڭىز ۋە تور كۆرگۈڭىزنىڭ ئۈچۈنجى شەخىس تەرىپىدىن تۇتقۇن قىلىنىشىنىڭ ئالدىنى ئېلىش ئۈچۈندۇر. "
+
+#: views/csrf.py:122
+msgid ""
+"If you have configured your browser to disable “Referer” headers, please re-"
+"enable them, at least for this site, or for HTTPS connections, or for “same-"
+"origin” requests."
+msgstr "ئەگەر سىز توركۆرگۈچىڭىزنى “Referer” بېكەت سېكىرتكۈچىنى چەكلەپ تەڭشىسىڭىز، بۇ تور بېكەت، ياكى HTTPS ئۇلىنىشى، ياكى “ئوخشاش-مەنبە” ئىلتىماسلىرى ئۈچۈن ئۇنى قايتا ئىچىپ قويۇڭ."
+
+#: views/csrf.py:127
+msgid ""
+"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or"
+" including the “Referrer-Policy: no-referrer” header, please remove them. "
+"The CSRF protection requires the “Referer” header to do strict referer "
+"checking. If you’re concerned about privacy, use alternatives like <a "
+"rel=\"noreferrer\" …> for links to third-party sites."
+msgstr "ئەگەر سىز <meta name=\"referrer\" content=\"no-referrer\"> تەگىنى ياكى “Referrer-Policy: no-referrer” بېكەت سېكىرتكۈچىنى ئىشلىتىۋاتىسىز، ئۇلارنى ئۆچۈرۈڭ. CSRF قوغداش تەلەپ قىلىدۇ “Referer” بېكەت سېكىرتكۈچى قاتتىق سېكىرتىشنى ئېلىپ بېرىشى كېرەك. ئەگەر سىز شەخسىيەتىڭىزگە قاراشقا ئۆزىڭىزنى ئۆزىڭىز قارغىلى بولسىڭىز، ئۈچىنچى تەرەپ تور بېكەتلىرىگە ئۇلىنىشلاردا <a rel=\"noreferrer\" …> قاتارلىق ئالتۇرناتىۋىلارنى ئىشلىتىڭ."
+
+#: views/csrf.py:136
+msgid ""
+"You are seeing this message because this site requires a CSRF cookie when "
+"submitting forms. This cookie is required for security reasons, to ensure "
+"that your browser is not being hijacked by third parties."
+msgstr " بۇ تور بېكەت جەدۋەل يوللىغاندا CSRF ساقلانمىسىنى تەلەپ قىلىدۇ. بۇ ساقلانمىلار بىخەتەرلىكنى كۆزدە تۇتۇپ ، تور كۆرگۈچىڭىزنىڭ ئۈچىنچى تەرەپ تەرىپىدىن ئوغرىلانماسلىقىغا كاپالەتلىك قىلىدۇ."
+
+#: views/csrf.py:142
+msgid ""
+"If you have configured your browser to disable cookies, please re-enable "
+"them, at least for this site, or for “same-origin” requests."
+msgstr "ئەگەر توركۆرگۈڭىزنى ساقلانمىلارنى چەكلەش ئۈچۈن تەڭشىگەن بولسىڭىز ، ھېچ بولمىغاندا بۇ تور بېكەت ياكى «ئوخشاش مەنبە» تەلەپلىرى ئۈچۈن ئۇلارنى قايتا قوزغىتىڭ."
+
+#: views/csrf.py:148
+msgid "More information is available with DEBUG=True."
+msgstr "DEBUG = True بىلەن تېخىمۇ كۆپ ئۇچۇرلارغا ئېرىشكىلى بولىدۇ."
+
+#: views/generic/dates.py:44
+msgid "No year specified"
+msgstr "يىل بەلگىلەنمىدى"
+
+#: views/generic/dates.py:64 views/generic/dates.py:115
+#: views/generic/dates.py:214
+msgid "Date out of range"
+msgstr "ۋاقىت چەكلىمىسىدىن ئېشىب كەتتى"
+
+#: views/generic/dates.py:94
+msgid "No month specified"
+msgstr "ئاي بەلگىلەنمىدى"
+
+#: views/generic/dates.py:147
+msgid "No day specified"
+msgstr "كۈن بەلگىلەنمىدى"
+
+#: views/generic/dates.py:194
+msgid "No week specified"
+msgstr "ھەپتە بەلگىلەنمىدى"
+
+#: views/generic/dates.py:349 views/generic/dates.py:380
+#, python-format
+msgid "No %(verbose_name_plural)s available"
+msgstr "%(verbose_name_plural)s يوق"
+
+#: views/generic/dates.py:652
+#, python-format
+msgid ""
+"Future %(verbose_name_plural)s not available because "
+"%(class_name)s.allow_future is False."
+msgstr "كەلگۈسى %(verbose_name_plural)s ئىشلەتكىلى بولمايدۇ ، چۈنكى %(class_name)s.allow_future بولسا False."
+
+#: views/generic/dates.py:692
+#, python-format
+msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgstr "ئىناۋەتسىز چېسلا تىزمىسى «%(datestr)s» بېرىلگەن فورمات «%(format)s»"
+
+#: views/generic/detail.py:56
+#, python-format
+msgid "No %(verbose_name)s found matching the query"
+msgstr "بۇ سوئالغا ماس كېلىدىغان %(verbose_name)s تېپىلمىدى"
+
+#: views/generic/list.py:70
+msgid "Page is not “last”, nor can it be converted to an int."
+msgstr "بەت «ئاخىرقى» ئەمەس ،ياكى  ئۇنى int غا ئايلاندۇرغىلى بولمىدى."
+
+#: views/generic/list.py:77
+#, python-format
+msgid "Invalid page (%(page_number)s): %(message)s"
+msgstr "ئىناۋەتسىز بەت (%(page_number)s): %(message)s"
+
+#: views/generic/list.py:169
+#, python-format
+msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgstr "بوش تىزىملىك %(class_name)s ۋە «.allow_empty» بولسا False."
+
+#: views/static.py:38
+msgid "Directory indexes are not allowed here."
+msgstr "ھۆججەت مۇندەرىجىسى بۇ يەردە رۇخسەت قىلىنمايدۇ."
+
+#: views/static.py:40
+#, python-format
+msgid "“%(path)s” does not exist"
+msgstr "%(path)s مەۋجۇت ئەمەس"
+
+#: views/static.py:79
+#, python-format
+msgid "Index of %(directory)s"
+msgstr "%(directory)s نىڭ كۆرسەتكۈچىسى"
+
+#: views/templates/default_urlconf.html:7
+#: views/templates/default_urlconf.html:221
+msgid "The install worked successfully! Congratulations!"
+msgstr "قاچىلاش مۇۋەپپەقىيەتلىك بولدى! مۇبارەك بولسۇن!"
+
+#: views/templates/default_urlconf.html:207
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr " Django %(version)s  ئۈچۈن <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" target=\"_blank\" rel=\"noopener\"> ئېلان قىلىش خاتىرىسى </a>نى  كۆرۈڭ"
+
+#: views/templates/default_urlconf.html:222
+#, python-format
+msgid ""
+"You are seeing this page because <a "
+"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
+"target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
+"and you have not configured any URLs."
+msgstr "سىز بۇ بەتنى كۆرۈۋاتىسىز ، چۈنكى <a href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener\">DEBUG = True</a> سىزنىڭ تەڭشەك ھۆججىتىڭىزدە ،شۇنداقلا ھېچقانداق URL تەڭشەلىمىگەن."
+
+#: views/templates/default_urlconf.html:230
+msgid "Django Documentation"
+msgstr " Django قوللانمىسى"
+
+#: views/templates/default_urlconf.html:231
+msgid "Topics, references, &amp; how-to’s"
+msgstr "تېما ، پايدىلانما ، & amp; قانداق قىلىش "
+
+#: views/templates/default_urlconf.html:239
+msgid "Tutorial: A Polling App"
+msgstr "دەرسلىك: بىر بېلەت تاشلاش دىتالى"
+
+#: views/templates/default_urlconf.html:240
+msgid "Get started with Django"
+msgstr "Django بىلەن تونۇشۇش"
+
+#: views/templates/default_urlconf.html:248
+msgid "Django Community"
+msgstr "Django جەمىيىتى"
+
+#: views/templates/default_urlconf.html:249
+msgid "Connect, get help, or contribute"
+msgstr "قوشۇلۇش ، ياردەمگە ئېرىشىش ياكى تۆھپە قوشۇش"
